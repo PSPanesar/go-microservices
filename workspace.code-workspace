@@ -13,7 +13,6 @@
       "path": "currency"
     }
   ],
-	"remoteAuthority": "wsl+Ubuntu",
 	"settings": {
 		"git.ignoreLimitWarning": true
 	}
